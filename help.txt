@@ -1,0 +1,11 @@
+This branch is for testing git commands.
+
+For help, search google for:
+	git
+	git tutorial
+	git commands
+	git commit -m
+	git pull
+	git push
+	git checkout
+	
