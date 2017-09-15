@@ -1,3 +1,7 @@
-bool func1(bool a, bool b){
+int func1(int x, int y){
+
+}
+
+bool func2(bool a, bool b){
 
 }
