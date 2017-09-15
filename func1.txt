@@ -1,7 +1,7 @@
 int func1(int x, int y){
-
+	return (x + y) / 2;
 }
 
 bool func2(bool a, bool b){
-
+	return a && b;
 }
